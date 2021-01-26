@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(34, 91, 196);
+    color: ghostwhite;
+}
+
+#main-div {
+    padding: 50px 200px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    color: rgb(34, 91, 196);
+}
+
+input {
+    color: rgb(34, 91, 196);
+}
